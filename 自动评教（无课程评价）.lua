@@ -187,10 +187,10 @@ function OnEvent(event, arg)
     if num==24 then
       MoveMouseTo( 42181, 59612 )
       PressAndReleaseMouseButton(1)
-    --  PressKey("CTRL")
+    --  PressKey("lctrl")
     --  PressKey("C")
     --   ReleaseKey("C")
-     --  ReleaseKey("CTRL")
+     --  ReleaseKey("lctrl")
       num=num+1
     end
   end
